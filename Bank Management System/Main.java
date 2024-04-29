@@ -1,4 +1,6 @@
-//By Swetha S
+//By Swetha
+//Updated by Sruthi
+
 import java.util.*;
 public class Main
 {
